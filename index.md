@@ -16,7 +16,7 @@ Our CAP is designed to encode spatial arrangements and visual appearance of the 
 ### Paper and Supplementary Information
 The link to the paper will be available soon.
 
-[Supplementary Document](https://research.edgehill.ac.uk/ws/portalfiles/portal/36372226/WACV_21_CameraReady.pdf)
+[Supplementary Document](AAAI_Supplementary.pdf)
 ```markdown
 Syntax highlighted code block
 
