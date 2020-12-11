@@ -17,6 +17,7 @@ Our CAP is designed to encode spatial arrangements and visual appearance of the 
 The link to the paper will be available soon.
 
 [Supplementary Document](AAAI_Supplementary.pdf)
+
 ```markdown
 Syntax highlighted code block
 
