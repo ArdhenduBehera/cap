@@ -10,6 +10,9 @@ Our CAP is designed to encode spatial arrangements and visual appearance of the 
 ![Image](diagram.jpg)
 **High-level illustration of our model (left). The detailed architecture of our novel CAP (right).**
 
+![Image](diagram2.jpg)
+**Learning pixel-level relationships from the convolutional feature map of size _W x H x C_. b) CAP using integral regions to capture both self and neighborhood contextual information. c) Encapsulating spatial structure of the integral regions using an LSTM. d) Classification by learnable aggregation of hidden states of the LSTM.**
+
 ```markdown
 Syntax highlighted code block
 
