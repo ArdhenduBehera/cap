@@ -8,6 +8,7 @@ Deep convolutional neural networks (CNNs) have shown a strong ability in mining 
 Our CAP is designed to encode spatial arrangements and visual appearance of the parts effectively. The module takes input as a convolutional feature from a base CNN and then _learns to emphasize_ the latent representation of multiple integral regions (varying coarseness) to describe hierarchies within objects and parts. Each region has an anchor in the feature map, and thus many regions have the same anchor due to the integral characteristics. These integral regions are then fed into a recurrent network (e.g. LSTM) to capture their spatial arrangements, and is inspired by the visual recognition literature, which suggests that humans do not focus their attention on an entire scene at once. Instead, they focus sequentially by attending different parts to extract relevant information. A vital characteristic of our CAP is that it generates a new feature map by focusing on a given region conditioned on all other regions and itself.
 
 ![Image](diagram.jpg)
+**a) High-level illustration of our model (left). b) The detailed architecture of our novel CAP (right).**
 
 ```markdown
 Syntax highlighted code block
