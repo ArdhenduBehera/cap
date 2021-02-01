@@ -14,13 +14,13 @@ Our CAP is designed to encode spatial arrangements and visual appearance of the 
 **Learning pixel-level relationships from the convolutional feature map of size _W x H x C_. b) CAP using integral regions to capture both self and neighborhood contextual information. c) Encapsulating spatial structure of the integral regions using an LSTM. d) Classification by learnable aggregation of hidden states of the LSTM.**
 
 ### Paper and Supplementary Information
-The link to the paper will be available soon.
+Extended version of the accepted paper in [ArXiv](https://arxiv.org/abs/2101.06635).
 
 [Supplementary Document](AAAI_Supplementary.pdf)
 
 ### Bibtex
 ```markdown
-@inproceedings{behera2021context-aware,
+@inproceedings{behera2021context,
   title={Context-aware Attentional Pooling (CAP) for Fine-grained Visual Classification},
   author={Behera, Ardhendu and Wharton, Zachary and Hewage, Pradeep and Bera, Asish},
   booktitle={The Thirty-Fifth AAAI Conference on Artificial Intelligence},
