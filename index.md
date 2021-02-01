@@ -17,6 +17,7 @@ Our CAP is designed to encode spatial arrangements and visual appearance of the 
 Extended version of the accepted paper in [ArXiv](https://arxiv.org/abs/2101.06635).
 
 [Supplementary Document](AAAI_Supplementary.pdf)
+
 **Source code will be available after the conference**
 
 ### Bibtex
