@@ -1,2 +1,1 @@
-# cap
-The Code will be available soon after the Conference
+# The Code and other information will be available soon after the AAAI conference. Thank you!
