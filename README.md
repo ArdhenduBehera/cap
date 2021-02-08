@@ -1,6 +1,6 @@
 # Context-aware Attentional Pooling (CAP)
 A repository for the code used to create and train the model defined in 'Context-aware Attentional Pooling (CAP) for Fine-grained Visual Classification' from AAAI 2021 (See the ___Paper___ section).
-<kbd>![AFLW validation results](https://github.com/ZWharton15/CAP-AAAI21/blob/main/doc/Figure_1.JPG?raw=true)</kbd>
+<kbd>![AFLW validation results](doc/Figure_1.JPG?raw=true)</kbd>
 
 ## Published Results
 <kbd>![AFLW validation results](https://github.com/ZWharton15/CAP-AAAI21/blob/main/doc/Table_1.JPG?raw=true)</kbd>
