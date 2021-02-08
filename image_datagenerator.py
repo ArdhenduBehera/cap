@@ -5,7 +5,6 @@ import keras
 from keras.preprocessing.image import load_img, img_to_array, apply_affine_transform
 from keras.preprocessing.image import ImageDataGenerator
 from keras import backend as K
-from imageGridCrops import getROIS
 import scipy
 import cv2
 

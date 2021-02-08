@@ -15,7 +15,6 @@ from loupe_keras import NetRVLAD
 from RoiPoolingConv import RoiPoolingConv
 from SelfAttention import SelfAttention
 from SeqAttention import SeqSelfAttention as SeqSelfAttention
-from SeqAttention import SeqWeightedAttention as Attention
 from SpectralNormalizationKeras import ConvSN2D
 from se import squeeze_excite_block
 
