@@ -45,7 +45,7 @@ Any parameters such as batch size, learning rate, or the path to the dataset can
 
 We found each dataset performed best with a specific set of parameters:
 | Dataset  | Batch Size | Learning Rate | 
-| --------:| ---------- | ------------- |
+| -------- | ---------- | ------------- |
 | Aircraft | 4          | 1e-6          |
 | Cars     | 4          | 1e-5          |
 | Dogs     | 12         | 1e-6          |
