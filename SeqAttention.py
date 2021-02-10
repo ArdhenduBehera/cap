@@ -8,9 +8,6 @@ https://github.com/CyberZHG/keras-self-attention
 
 class SeqSelfAttention(keras.layers.Layer):
 
-    ATTENTION_TYPE_ADD = 'additive'
-    ATTENTION_TYPE_MUL = 'multiplicative'
-
     def __init__(self,
                  units=32,                 
                  return_attention=False,
