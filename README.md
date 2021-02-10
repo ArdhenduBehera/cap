@@ -43,6 +43,16 @@ python train_CAP.py
 Once the model is compiled 2 folders will be created; Metrics and TrainedModels. These are where the evaluation results and model checkpoints will be saved respectively. The other scripts are supplementary to this training script and do not need to be used directly.
 Any parameters such as batch size, learning rate, or the path to the dataset can be changed on lines 24-37 of train_CAP.py.
 
+We found each dataset performed best with a specific set of parameters:
+| Dataset  | Batch Size | Learning Rate | 
+| -------- | ---------- | ------------- |
+| Aircraft | 4          | 1e-6          |
+| Cars     | 4          | 1e-5          |
+| Dogs     | 12         | 1e-6          |
+| CUB      | 8          | 1e-6          |
+| Flowers  | 4          | 1e-6          |
+| Pets     | 12         | 1e-6          |
+
 ## Citation
 Please include the following citation in any publications using this work:
 ```
